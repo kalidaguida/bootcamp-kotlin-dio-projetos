@@ -1,0 +1,40 @@
+Desenvolvimento de software
+3 tipos atualmente:
+* Sistema descktop - São sistemas autônomos que podem ser instalados no computador. Ex: Word, Ecxel, antivirus e jogos.
+* Sistema web - São sistemas que podem ser acessados remotamente por um navegador de internet, sem necessidade de instalação. 
+* Aplicações móveis - App mobile é um software desenvolvido para ser instalado em smartphone ou tablet, normalmente baixado de uma loja online como App Store ou Google Play.
+
+Profissionais que farão parte do desenvolvimento de um Software
+* UX Design - É o profissional que cuida da experiencia do usuário, que vai pensar no design e na interação do usuário com o software baseado em pesquisas. Ele vai criar o protótipo do produto e definir onde cada coisa vai ficar.
+	- UI Design irá fazer o design em si do produto, pensar no layout, cores e tipografia. É a parte mais criativa.
+* Front End - É o responsável por desenvolver por meio de códigos a parte gráfica de software, normalmente de base web (HTML, CSS e JavaScript).
+	* IDE (Integrated Development Environment) - Ambiente de desenvolvimento integrado é é um programa de computador que reúne características e ferramentas de apoio ao desenvolvimento de software com o objetivo de agilizar este processo.
+# Framework - é uma ferramnta que auxilia no desenvolvimento de software facilitando e ajudando no trabalho dos desenvolvedores. Ex: Angular (específico para auxiliar o desenvolvedor front end, HTML, CSS, Java Script), Laravel (para programador PHP), Vue (para JavaScript), Spring (para desenvolvedor Java, específico para back end).
+
+* Back End - O back end trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa em um ambiente onde o usuário final não tem acesso. Ex: Java, PHP e C#.
+	* API (Application Programming Interface) - Interface de programação de aplicativos, é um intermediário de software que permite que dois aplicativos conversem entre si. É a conexão entre o usuário e o servidor.
+* Full Stack - Desenvolvedor Full Stack é quem trabalha com back end e front end. Precisam ter habilidades e conhecimento em várias linguagens de programação.
+* QA - Quality Assurance, é o profissional que cuida da qualidade do produto, ele verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados no produto serão entregues.
+* Infraestrutura - Modelo de desenvolvimento Cliente-Servidor. Quem trabalha nessa área é responsável por cuidar da infraestrutura do servidor.
+	* Servidor Público e privado
+		- Atividades e profissionais em nuvem privada
+		1- Segurança da Tecnologia da Informação (lógica e física);
+		2- Mão de obra especializada (software e hardware);
+		3- Infraestrutura local (máquinas e cabeamento);
+		
+		- Atividades em nuvem pública
+		Os sistemas em nuvem são sistemas de armazenamento de dados disponibilizados via internet, em vez de servidores físicos tradicionais. (Ex: Amazon web services, Google cloud platform, Microsoft azure, Oracle cloud)
+		* Profissional de Cloud Computing - também conhecido como arquiteto ou engenheiro de rede, é responsável pela infraestrutura de nuvem oferecida aos clientes. Além de desenhar sistemas ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são melhores, como as peças vão ser integradas e cuida do que foi construído.
+
+# Desenvolvimento Mobile 
+- Back end: atende tanto o web quanto mobile;
+- Front end: muda a forma de trabalho, além da linguagem de programação precisa de uma plataforma de desenvolvimento que são Android e IOS.
+	- Android Studio - plataforma de desenvolvimento / Programação: Java e/ou Kotlin;
+	- Xcode - plataforma de desenvolvimento / Programação: SWIFT
+* Desenvolvimento Híbrido (web) Android e IOS
+- IONIC, Flutter, React Native (linguagens)
+
+
+
+
+

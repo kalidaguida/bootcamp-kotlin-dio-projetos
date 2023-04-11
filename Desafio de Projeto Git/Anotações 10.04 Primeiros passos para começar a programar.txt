@@ -1,0 +1,38 @@
+Pensamento computacional
+
+O pensamento computacional é uma abordagem para a resolução de problemas que envolve habilidades e técnicas utilizadas na ciência da computação, como decomposição, abstração, algoritmos e estruturação de dados. Essas habilidades podem ser aplicadas em diferentes áreas e não se limitam apenas à programação de computadores.
+
+O pensamento computacional tem algumas características principais, incluindo:
+
+- Decomposição: a habilidade de dividir um problema complexo em partes menores e mais gerenciáveis. Isso ajuda a identificar problemas menores que podem ser resolvidos individualmente e, em seguida, combinados para resolver o problema geral.
+
+- Padrão: a habilidade de definir e identificar um padrão de seguimento ou comportamento do problema.  a lógica é uma ferramenta essencial para a resolução de problemas, tomada de decisões informadas e desenvolvimento de pensamento crítico.
+
+- Abstração: a habilidade de identificar os aspectos mais importantes de um problema e ignorar os detalhes menos relevantes. Isso ajuda a simplificar o problema e torná-lo mais fácil de entender e resolver.
+
+- Algoritmos: a habilidade de desenvolver um conjunto de instruções precisas e ordenadas que podem ser seguidas para resolver um problema. Isso ajuda a organizar e estruturar a solução de um problema de maneira lógica e sistemática.
+
+Estruturação de dados: a habilidade de organizar e armazenar informações de maneira eficiente. Isso ajuda a gerenciar grandes quantidades de informações e a acessá-las de maneira rápida e eficaz.
+
+Ao aplicar o pensamento computacional, você pode resolver problemas de maneira mais eficiente e eficaz, identificar soluções inovadoras e criar produtos e serviços melhores. O pensamento computacional é uma habilidade valiosa que pode ser aplicada em muitas áreas, desde negócios e finanças até ciência e tecnologia.
+
+Lógica de programação
+
+A lógica é uma ferramenta essencial para a resolução de problemas, tomada de decisões informadas e desenvolvimento de pensamento crítico.
+
+Técnicas de lógica de programação
+- Técnica linear
+- Técnica estruturada
+- Técnica modular
+
+Portugol
+
+Portugol é uma linguagem de programação fictícia, criada com o objetivo de ensinar os conceitos básicos de programação de computadores para iniciantes. O nome "Portugol" vem da junção das palavras "Português" e "Algol", em referência à linguagem de programação Algol, que é uma das linguagens mais antigas e influentes na história da computação.
+A linguagem Portugol é baseada em pseudocódigo, ou seja, ela utiliza uma sintaxe simples e próxima da linguagem natural para representar algoritmos. Essa linguagem é utilizada em muitos cursos introdutórios de programação, pois permite que os estudantes compreendam os conceitos básicos da programação sem ter que lidar com a complexidade de uma linguagem de programação real.
+Embora o Portugol seja uma linguagem fictícia, existem compiladores e interpretadores disponíveis que permitem a execução de programas escritos em Portugol em um computador. Isso permite que os estudantes possam ver seus programas funcionando na prática, o que pode ser bastante motivador e ajudar na compreensão dos conceitos.
+
+https://portugol-webstudio.dgadelha.xyz/ide
+
+
+
+
