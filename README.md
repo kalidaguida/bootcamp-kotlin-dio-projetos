@@ -1,5 +1,5 @@
 # Desafio de Projeto Bootcamp TQI Kotlin 
-Repositório criado para os desafios de projeto da DIO.
+Repositório criado para o desafio de projeto da DIO.
 
 ## Compartilhando meu Plano de Estudos para o Bootcamp
 ### Esse é o plano de estudos que montei para o Bootcamp, que é atualizado diarimente: 
